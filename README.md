@@ -61,6 +61,7 @@ Designed for bitwise logic and base conversions:
 * **Breakdown:** Automatically outputs DEC, HEX, OCT, and BIN representations for integer results.
 
 ### 4. Graph Mode
+![Graph Mode](graph_mode.jpg)
 Plots functions of $x$ using character-based plots with automatic range scaling:
 * **Domain:** Fixed standard domain $x \in [-10, 10]$
 * **Range:** Automatically calculates and fits the Y-axis boundaries based on evaluated function output values.
